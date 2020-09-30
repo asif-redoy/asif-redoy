@@ -3,7 +3,7 @@
 ### I'm a Full Stack Developer, have 3+ years experience on Web Development. Currently...
 - 💼 Working as Software Engineer at [Walton Group](https://waltonbd.com/)
 - 👨🏻‍💻 Working on [.Net](https://dotnet.microsoft.com/)
-- 🌱 Learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction),[React Js](https://reactjs.org/)
+- 📚 Learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction),[React Js](https://reactjs.org/)
 - 👯 I’m looking to collaborate on Full Stack Web Development
 - 🤔 I’m looking for help with Microservice
 - 💬 Ask me about .Net or any tech related stuff
@@ -13,6 +13,12 @@
 [<img align="left" alt="asif-redoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="asif-redoy | Stack Overflow" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />][stack oveflow]
 [<img align="left" alt="asif-redoy | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/twitter-2038532-1718517.png" />][twitter]
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+### Personal Website
+-:newspaper: https://asif-redoy.github.io/resume/Resume.html
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
