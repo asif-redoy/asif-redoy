@@ -16,12 +16,10 @@
 [<img align="left" alt="asif-redoy | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/twitter-2038532-1718517.png" />][twitter]
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 
 ### Personal Website 🔍
-
- https://asif-redoy.github.io/resume/Resume.html
-<p>&nbsp;</p>
+ https://asif-redoy.github.io/resume/Resume.html 
 <p>&nbsp;</p>
 
 ### Languages 💡
@@ -38,22 +36,18 @@
 <img align="left" alt="SQLS ERVER" width="26px" src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
- ### Development Tools 🔧
-
+### Development Tools 🔧
 <img align="left" alt="Visual Studio" width="26px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="Brackets" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ### Frameworks 💻
 <img align="left" alt="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
