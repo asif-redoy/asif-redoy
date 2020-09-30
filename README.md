@@ -10,18 +10,21 @@
 
 
 ### Social Networks
+
 [<img align="left" alt="asif-redoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="asif-redoy | Stack Overflow" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />][stack oveflow]
 [<img align="left" alt="asif-redoy | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/twitter-2038532-1718517.png" />][twitter]
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-### Personal Website
--:newspaper: https://asif-redoy.github.io/resume/Resume.html
+
+### Personal Website 🔍
+
+ https://asif-redoy.github.io/resume/Resume.html
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-### Languages
+### Languages 💡
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="csharp" width="26px" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" />
 <img align="left" alt="ASP.NET" width="26px" src="https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" />
@@ -38,7 +41,9 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-### Development Tools
+
+ ### Development Tools 🔧
+
 <img align="left" alt="Visual Studio" width="26px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -46,7 +51,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-### Frameworks
+### Frameworks 💻
 <img align="left" alt="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
 
 <p>&nbsp;</p>
